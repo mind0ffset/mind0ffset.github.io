@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Como se ha hecho esta página
+title: Cómo se ha hecho este blog.
 tags: githubpages jekyll markdown
 categories: Artículo
 ---
 
-# Conectar temas Jekyll en githubpages
+# Temas de Jekyll en githubpages con MarkDown
 
-Este es el primer párrafo
-
-[mind0ffset](https://mind0ffset.github.io)
+Esto es una descripción de un [tutorial](https://evanwill.github.io/go-go-ghpages-b/content/3-blog.html) "Exploring Jekyll Basic via a Blog".
 
 ## Cosas que hacer
 
