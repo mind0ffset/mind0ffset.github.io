@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cómo se ha hecho este blog.
+title: Como se ha hecho este blog - GitHub Pages y Jekyll.
 tags: githubpages jekyll markdown
 categories: Artículo
 ---
