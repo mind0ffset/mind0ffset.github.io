@@ -1,8 +1,8 @@
 #Site settings
 title: mind0ffset
 author:
-    name: Francisco Bermejo
-    description: "Diario de cosas útiles."
+ name: Francisco Bermejo
+ description: "Diario de cosas útiles."
 
 #Build settings
 remote_theme: jekyll/minima
