@@ -1,0 +1,9 @@
+#Site settings
+title: mind0ffset
+author:
+    Name: Francisco Bermejo
+    email: hilar.info@gmail.com
+    description: "Diario de cosas útiles."
+
+#Build settings
+remote_theme: jekyll/minima
