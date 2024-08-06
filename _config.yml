@@ -2,7 +2,7 @@
 title: mind0ffset
 author:
  name: Francisco José Bermejo Tarifa
- description: "Diario de cosas útiles."
+description: "Diario de cosas útiles."
 
 #Build settings
 remote_theme: jekyll/minima
