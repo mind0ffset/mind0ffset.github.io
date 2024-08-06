@@ -5,7 +5,7 @@ tags: githubpages jekyll markdown
 categories: Artículo
 ---
 
-## Temas de Jekyll en githubpages con MarkDown
+## Temas de Jekyll en GitHub Pages con MarkDown
 
 Esto es una descripción de un [tutorial](https://evanwill.github.io/go-go-ghpages-b/content/3-blog.html) "Exploring Jekyll Basic via a Blog".
 
