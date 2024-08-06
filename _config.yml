@@ -1,8 +1,7 @@
 #Site settings
-title: mind0ffset
+title: mind0ffset · Diario de cosas útiles
 author:
  name: Francisco José Bermejo Tarifa
-description: "Diario de cosas útiles."
 
 #Build settings
 remote_theme: jekyll/minima
