@@ -95,6 +95,12 @@ Las listas numeradas son con un número seguido de '.'
 3. tres
 4. cuatro
 
+Bloques de texto son párrafo hasta la siguiente línea vacía.
+Mantener una línea vacía entre encabezado y párrafos.
+
+Trozos de código se pueden resaltar con 'comillas'
+Enlaces tienen un formato [Texto](https://)
+
 ```
 - Se describe el commit y se realiza el commit.
 - And, that's it! esto sería lo básico para crear artículos en un blog alojado como repositorio en GitHub Pages con formato MarkDown gracias a Jekyll
