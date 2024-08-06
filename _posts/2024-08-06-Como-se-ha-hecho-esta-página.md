@@ -44,7 +44,7 @@ remote_theme: jekyll/minima
 ```
 - remote_theme: jekyll/minima <- se puede modificar el tema que se quiera usar. En este caso es "minima"
 - Se describe el commit y se realiza el commit.
-- Ahora se crea otro fichero con nombre index.md.
+- Ahora se crea otro fichero con nombre index.md
 - Se edita el fichero con el contenido.
 
 ```
@@ -81,7 +81,7 @@ Comienza el artículo.
 
 Fuente puede ser *Itálica* o **Consistente**
 
-Listas de puntos se crean con '-', '+' o '-' delante de cada línea
+Listas de puntos se crean con '*', '+' o '-' delante de cada línea
 
 - ToDo
 - Primera cosa
