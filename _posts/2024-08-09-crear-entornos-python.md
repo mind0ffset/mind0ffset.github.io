@@ -5,9 +5,7 @@ tags: python virtualenv jekyll markdown
 categories: Artículo
 ---
 
-## Crear entornos virtuales Python desde Terminal.
-
-*Sistema utilizado es Debian. También funciona con variantes*
+## Comandos para crear entornos virtuales Python en Debian o similares.
 
 - Se revisa si hay alguna actualización pendiente:
 ```
