@@ -11,7 +11,7 @@ Esto es una descripción de un [tutorial](https://evanwill.github.io/go-go-ghpag
 
 ## Crear un repositorio público en github.
 
-- Se accede a GitHub, se pulsa en el "+" de arriba a la derecha.
+- Se accede a GitHub, se pulsa en el símbolo "+" de arriba a la derecha.
 - Se hace click en "Nuevo repositorio".
 - Se puede hacer como se indica en [GitHub Pages](https://pages.github.com) añadiendo como el formato "nombredeusuario.github.io" al nombre de repositorio 
 - En este caso "nombredeusuario" es el nombre del perfil de github.
