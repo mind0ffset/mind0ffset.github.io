@@ -47,4 +47,4 @@ source ~/entornos_python/nombre_del_entorno/bin/activate
 python3 -m pip install --upgrade pip
 ```
 - Solamente está afectando al gestor de paquetes que reside en dicho entorno. El *Pip* *Global* que se instaló previamente con *APT* no se verá afectado.
-- De esta manera podemos crear y destruir entornos, para probar dependencias y paquetes sin alterar la instalación Python del sistema.
+- De esta manera se pueden crear y destruir entornos, para probar dependencias y paquetes sin alterar la instalación Python del sistema.
