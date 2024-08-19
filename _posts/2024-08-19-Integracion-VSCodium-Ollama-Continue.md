@@ -5,19 +5,17 @@ tags: Ai AI IDE local LLM Ollama Continue Visual Studio
 categories: Artículo
 ---
 
-##Si se usa esta guía, la persona asume los riesgos que conlleva modificar el entorno y el producto de esas modificaciones.
+## Si se usa esta guía, la persona asume los riesgos que conlleva modificar el entorno y el producto de esas modificaciones.
 
-##No se garantiza ningún resultado óptimo.
+## No se garantiza ningún resultado óptimo.
 
-##Esta guía asume un entorno Ubuntu 24.04 fresco.
+## Esta guía asume un entorno Ubuntu 24.04 fresco.
 
-##No se garantiza la estabilidad de la máquina.
+## No se garantiza la estabilidad de la máquina.
 
-##No es un diseño para producción. 
+## No es un diseño para producción. 
 
-##Exclusivo 
-
-##USO PERSONAL.
+## Exclusivo para USO PERSONAL.
 
 Esta guía es una recopilación del artículo de *The Register* [*Who needs GitHub Copilot when you can roll your own AI code assistant at home*](https://www.theregister.com/2024/08/18/self_hosted_github_copilot). En el cual se describe como integrar un asistente virtual en un IDE para complementar la tarea de programación.
 Los pasos a seguir en el artículo inicial, estaban segmentados en tres capítulos. Con enlaces a los diferentes secciones para llegar a completarlo.
@@ -47,7 +45,7 @@ sudo apt install linux-headers-$(uname -r) build-essential
 gcc --version
 ```
 
-##Instalar *CUDA* Toolkit desde repositorio en red para *Ubuntu*.
+## Instalar *CUDA* Toolkit desde repositorio en red para *Ubuntu*.
 
 - Instalar nuevo paquete cuda-keyring.
 ```
@@ -69,7 +67,7 @@ apt search nvidia-driver
 - Si están los últimos ya está, si no instalarlos con *sudo apt install [nombre del paquete del driver]* y reiniciar.
 
 
-##Instalar *Ollama*.
+## Instalar *Ollama*.
 
 ```
 curl -fsSL https://ollama.com/install.sh | sh
@@ -85,13 +83,13 @@ ollama pull starcoder2:3b
 ```
 - Alrededor de ~7GB de almacenamiento se utilizaran.
 
-##Instalar *VSCodium*.
+## Instalar *VSCodium*.
 
 - Se instala desde la propia tienda de aplicaciones de *Ubuntu*.
 
 - Si se quiere instalar sin snap hay instrucciones en la página [*VSCodium*](https://vscodium.com/).
 
-##Instalar *Continue* en *VSCodium*.
+## Instalar *Continue* en *VSCodium*.
 
 - Se abre el IDE.
 - Se selecciona el icono de la izquierda que abre el panel de extensiones.
@@ -106,6 +104,6 @@ ollama pull starcoder2:3b
 
 - Si se pulsa Cmd/Ctrl + I y se tiene seleccionado *Continue* a la izquierda. Aparece un prompt que permite verbalizar el código que se quiere representar en la página abierta.
 
-#Si se quiere deshabilitar la telemetría de *Continue*.
+# Si se quiere deshabilitar la telemetría de *Continue*.
 - En el apartado de plug-ins aparece una rueda de ajustes debajo de *Continue*. Al pulsar aparecen los ajustes del plug-in.
 - Hacia abajo aparece *Continue-Telemetry Enabled*. Pulsamos para deshabilitar la telemetría.
