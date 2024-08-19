@@ -97,10 +97,10 @@ ollama pull starcoder2:3b
 - Se instala y aparece la página de bienvenida a la izquierda que nos indica si es a través de API o local, seleccionamos **Local Models** y se selecciona abajo **Continue**.
 
 - Los comandos para usar *Continue* están listados como:
--Cmd/Ctrl + L = Seleccionar código.
--Cmd/Ctrl + Shift + L = Seleccionar código para seguirlo.
--Cmd/Ctrl + I = Editor rápido.
--Cmd/Ctrl + Shift + R = Terminal de debug automática.
+- Cmd/Ctrl + L = Seleccionar código.
+- Cmd/Ctrl + Shift + L = Seleccionar código para seguirlo.
+- Cmd/Ctrl + I = Editor rápido.
+- Cmd/Ctrl + Shift + R = Terminal de debug automática.
 
 - Si se pulsa Cmd/Ctrl + I y se tiene seleccionado *Continue* a la izquierda. Aparece un prompt que permite verbalizar el código que se quiere representar en la página abierta.
 
