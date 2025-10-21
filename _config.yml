@@ -5,4 +5,4 @@ author:
 #Build settings
 remote_theme: jekyll/minima
 minima:
-  skin: dark
+  skin: solarized-light
