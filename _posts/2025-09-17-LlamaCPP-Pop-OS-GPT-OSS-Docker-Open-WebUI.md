@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Compilar(Build) llama.cpp con soporte CUDA en Pop!_OS 22.04_amd64_nvidia_57 + gpt-oss-20b-MXFP4 + Docker Open WebUI front
