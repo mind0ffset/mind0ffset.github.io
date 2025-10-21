@@ -1,3 +1,9 @@
+---
+layout: post
+title: Coral Edge TPU USB en Pop!OS 22.04
+tags: Pop!OS Coral Edge TPU USB Google
+categories: Artículo
+---
 #### NO USAR EN PRODUCCIÓN
 #### SÓLO USO EXCLUSIVO PERSONAL
 
